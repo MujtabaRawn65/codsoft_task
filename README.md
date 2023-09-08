@@ -17,7 +17,7 @@ Below, you'll find a brief overview of each task along with links to their respe
 
 - **Source Code**: [Todo App Repository](https://github.com/MujtabaRawn65/codsoft_task/blob/main/Tasks/Todo%20App.py)
 
-- **Documentation**: [Todo App Documentation](https://github.com/MujtabaRawn65/codsoft_task/blob/main/README.md)
+- **Documentation**: [Todo App Documentation](https://www.linkedin.com/posts/muhammad-mujtaba-rawn-4b587b281_internshipjourney-pythondevelopment-gui-activity-7105158384634540034-7MIc/?utm_source=share&utm_medium=member_android)
 
 ## Task 2: Calculator
 
@@ -30,7 +30,7 @@ Below, you'll find a brief overview of each task along with links to their respe
 
 - **Source Code**: [Calculator Repository](https://github.com/MujtabaRawn65/codsoft_task/blob/main/Tasks/Calculator.py)
 
-- **Documentation**: [Calculator Documentation](https://github.com/MujtabaRawn65/codsoft_task/blob/main/README.md)
+- **Documentation**: [Calculator Documentation](https://www.linkedin.com/feed/update/urn:li:activity:7105504534747095040)
 
 ## Task 3: Password Generator
 
@@ -44,7 +44,7 @@ Below, you'll find a brief overview of each task along with links to their respe
 
 - **Source Code**: [Password Generator Repository](https://github.com/MujtabaRawn65/codsoft_task/blob/main/Tasks/Password%20Generator.py)
 
-- **Documentation**: [Password Generator Documentation](https://github.com/MujtabaRawn65/codsoft_task/blob/main/README.md)
+- **Documentation**: [Password Generator Documentation](https://www.linkedin.com/feed/update/urn:li:activity:7105820144123166720)
 
 ## Getting Started
 
